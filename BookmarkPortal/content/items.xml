@@ -1,0 +1,13 @@
+<items gfxroot="gfx/items/" version="1">
+    <trinket id="1" name="Blank Bookmark"  description="Put it where you'd like to remember..." gfx="blank_bookmark.png" />
+    <trinket id="2" name="Gilded Bookmark" description="Remember the thrill of spending..." gfx="gilded_bookmark.png" />
+    <trinket id="3" name="Heart Bookmark" description="Remember the pain of sacrifice..." gfx="pretty_bookmark.png" />
+    <trinket id="4" name="Charred Bookmark" description="Remember the scars of battle..." gfx="charred_bookmark.png" />
+    <trinket id="5" name="Dusty Bookmark"  description="Remember the smell of mold in the walls..." gfx="dusty_bookmark.png" />
+    <trinket id="6" name="Shiny Bookmark" description="Remember the joy of treasure..." gfx="copper_bookmark.png" />
+    <trinket id="7" name="Cosmic Bookmark" description="Remember where, who, what...?" gfx="cosmic_bookmark_a.png" />
+    <active id="10" name="Go Back" gfx="take_me_back.png" description="Take me back!"/>
+    <active id="11" name="Go Back (Back) (Back)" gfx="collectibles_422_glowinghourglass.png" description="Take me back! back! back!"/>
+    <active id="12" name="Go To Start" gfx="take_me_back.png" description="Back to Start"/>
+    <active id="13" name="Invoke Bookmark" gfx="take_me_back.png" description="Take me back!"/>
+</items>

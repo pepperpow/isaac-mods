@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BookmarkPortals</name>
+    <directory>BookmarkPortals</directory>
+    <id>1123891427801421111</id>
+    <description>Create portals on teleport</description>
+    <version>0.01</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+</metadata>
