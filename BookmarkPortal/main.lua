@@ -377,7 +377,8 @@ function myMod:freeTeleport()
     if hasValidTrinket and myRoom:IsClear() then
         myRoomData = myLevel:GetCurrentRoomDesc().Data
         sid, variant, roomType = myRoomData.StageID, myRoomData.Variant, myRoomData.Type
-        isStart = sid == 0 and variant == 2 -- probably a function for this
+
+        isStart = myLevel:GetStartingRoomIndex() == myLevel:GetCurrentRoomIndex() -- probably a function for this
         -- print(GameState.startWithCharred)
 
         for name,info in pairs(trinket_info) do
